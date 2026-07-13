@@ -2,10 +2,10 @@
   {
     "name": "Tachiyomi: NTK (All Pages Fix)",
     "pkg": "eu.kanade.tachiyomi.extension.ko.ntk",
-    "apk": "tachiyomi-ko.ntk-v1.4.9-newtoki-org.apk",
+    "apk": "tachiyomi-ko.ntk-v1.4.10-newtoki-org.apk",
     "lang": "ko",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "sources": [
       {
