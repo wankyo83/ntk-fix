@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Tachiyomi: NTK Newtoki",
+    "pkg": "eu.kanade.tachiyomi.extension.ko.ntknewtoki",
+    "apk": "tachiyomi-ko.ntknewtoki-v1.4.1.apk",
+    "lang": "ko",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "NTK Newtoki Webtoon",
+        "lang": "ko",
+        "id": "7309886892496150801",
+        "baseUrl": "https://newtoki1.org/webtoon",
+        "versionId": 1
+      },
+      {
+        "name": "NTK Newtoki Manga",
+        "lang": "ko",
+        "id": "8157458065918408609",
+        "baseUrl": "https://newtoki1.org/manhwa",
+        "versionId": 1
+      }
+    ]
+  }
+]
