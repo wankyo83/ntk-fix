@@ -1,24 +1,24 @@
 [
   {
-    "name": "Tachiyomi: NTK Newtoki",
-    "pkg": "eu.kanade.tachiyomi.extension.ko.ntknewtoki",
-    "apk": "tachiyomi-ko.ntknewtoki-v1.4.1.apk",
+    "name": "Tachiyomi: NTK (All Pages Fix)",
+    "pkg": "eu.kanade.tachiyomi.extension.ko.ntk",
+    "apk": "tachiyomi-ko.ntk-v1.4.8-newtoki-org.apk",
     "lang": "ko",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "sources": [
       {
-        "name": "NTK Newtoki Webtoon",
+        "name": "NTK Webtoon",
         "lang": "ko",
-        "id": "7309886892496150801",
+        "id": "8502946974566317875",
         "baseUrl": "https://newtoki1.org/webtoon",
         "versionId": 1
       },
       {
-        "name": "NTK Newtoki Manga",
+        "name": "NTK Manga",
         "lang": "ko",
-        "id": "8157458065918408609",
+        "id": "50660466465629892",
         "baseUrl": "https://newtoki1.org/manhwa",
         "versionId": 1
       }
