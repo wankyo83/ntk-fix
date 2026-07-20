@@ -1,18 +1,33 @@
-# NTK Fix extension repository
+# NTK Fix 확장 저장소
 
-Tachimanga용 NTK 확장 저장소입니다. 장편 작품의 회차 목록에서 모든 페이지를 불러오도록 수정했습니다.
+Tachimanga, Mihon, Komikku 계열 앱에서 사용할 수 있는 개인용 한국어 확장 저장소입니다.
 
-## Tachimanga 저장소 주소
+## 저장소 주소
 
+아래 주소 하나만 확장 저장소에 등록하면 NTK, Toki, BlackToon 확장 3개를 설치하고 업데이트할 수 있습니다.
 
 ```text
 https://raw.githubusercontent.com/wankyo83/ntk-fix/main/index.min.json
 ```
 
-## 업데이트 규칙
+## 포함된 확장
 
-- APK를 수정할 때마다 Android `versionCode`와 `versionName`을 올립니다.
-- `index.min.json`의 `code`, `version`, `apk`도 같은 버전으로 변경합니다.
-- 기존 설치 위에 업데이트할 수 있도록 항상 같은 서명 키를 사용합니다.
+| 확장 | 버전 | 아이콘 | 기본 주소 | 비고 |
+|---|---:|---|---|---|
+| NTK (All Pages Fix) | 1.4.11 | 만화책 토끼 | `newtoki1.org` | NTK Webtoon / NTK Manga 포함 |
+| Toki (domain switch) | 1.4.16 | 파란 토끼 | `toki31.com` | 전체 회차 및 이미지 뷰어 지원 |
+| BlackToon (domain switch) | 1.4.4 | 검정 토끼 | `blacktoon416.com` | 설정에서 도메인 숫자 변경 가능 |
 
-이 프로젝트는 Tachimanga, Mihon, Tachiyomi 또는 대상 웹사이트와 제휴하지 않은 개인용 수정본입니다.
+## 설치 방법
+
+1. 앱의 확장 또는 저장소 설정 화면을 엽니다.
+2. 위의 `index.min.json` 주소를 저장소 URL로 추가합니다.
+3. 저장소를 새로고침합니다.
+4. 표시되는 NTK, Toki, BlackToon 확장을 각각 설치합니다.
+
+기존에 같은 패키지의 확장을 설치했다면 앱의 업데이트 목록에서 새 버전을 설치할 수 있습니다. 저장소 목록이 이전 상태로 보이면 앱을 완전히 종료한 뒤 저장소를 다시 새로고침하세요.
+
+## 안내
+
+- 사이트 주소가 변경되면 Toki와 BlackToon 확장 설정에서 도메인 숫자를 변경할 수 있습니다.
+- 이 저장소는 Tachimanga, Mihon, Komikku 또는 대상 사이트와 제휴하지 않은 개인용 수정본입니다.
