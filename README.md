@@ -14,8 +14,8 @@ https://raw.githubusercontent.com/wankyo83/ntk-fix/main/index.min.json
 
 | 확장 | 버전 | 아이콘 | 기본 주소 | 비고 |
 |---|---:|---|---|---|
-| Newtoki | 1.4.13 | 만화책 토끼 | `newtoki1.org` | Webtoon / Manga 전체 회차 및 이미지 뷰어 지원 |
-| Toki | 1.4.18 | 파란 토끼 | `toki31.com` | 검색, 전체 회차 및 Webtoon / Manga 이미지 뷰어 지원 |
+| Newtoki | 1.4.14 | 만화책 토끼 | `newtoki1.org` | Webtoon / Manga 전체 회차 및 이미지 뷰어, Manga 광고 확인 세션 지원 |
+| Toki | 1.4.19 | 파란 토끼 | `toki31.com` | 검색, 전체 회차 및 Webtoon / Manga 이미지 뷰어, Manga 광고 확인 세션 지원 |
 | Black toon | 1.4.6 | 검정 토끼 | `blacktoon417.com` | 공식 주소 안내 페이지에서 최신 도메인 자동 감지 |
 
 ## 설치 방법
