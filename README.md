@@ -14,9 +14,9 @@ https://raw.githubusercontent.com/wankyo83/ntk-fix/main/index.min.json
 
 | 확장 | 버전 | 아이콘 | 기본 주소 | 비고 |
 |---|---:|---|---|---|
-| Newtoki | 1.4.12 | 만화책 토끼 | `newtoki1.org` | NTK Webtoon / NTK Manga 포함 |
-| Toki | 1.4.17 | 파란 토끼 | `toki31.com` | 검색, 전체 회차 및 이미지 뷰어 지원 |
-| Black toon | 1.4.5 | 검정 토끼 | `blacktoon416.com` | 설정에서 도메인 숫자 변경 가능 |
+| Newtoki | 1.4.13 | 만화책 토끼 | `newtoki1.org` | Webtoon / Manga 전체 회차 및 이미지 뷰어 지원 |
+| Toki | 1.4.18 | 파란 토끼 | `toki31.com` | 검색, 전체 회차 및 Webtoon / Manga 이미지 뷰어 지원 |
+| Black toon | 1.4.6 | 검정 토끼 | `blacktoon417.com` | 공식 주소 안내 페이지에서 최신 도메인 자동 감지 |
 
 ## 설치 방법
 
@@ -31,5 +31,6 @@ https://raw.githubusercontent.com/wankyo83/ntk-fix/main/index.min.json
 
 ## 안내
 
-- 사이트 주소가 변경되면 Toki와 BlackToon 확장 설정에서 도메인 숫자를 변경할 수 있습니다.
+- Toki 주소가 변경되면 확장 설정에서 도메인 숫자를 변경할 수 있습니다.
+- Black toon은 `blacktoonurl.org`의 공식 주소 안내 페이지에서 최신 바로가기 주소를 자동으로 확인하므로 도메인 숫자를 직접 바꿀 필요가 없습니다.
 - 이 저장소는 Tachimanga, Mihon, Komikku 또는 대상 사이트와 제휴하지 않은 개인용 수정본입니다.
