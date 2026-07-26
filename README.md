@@ -4,7 +4,7 @@ Tachimanga, Mihon, Komikku 계열 앱에서 사용할 수 있는 개인용 한�
 
 ## 저장소 주소
 
-아래 주소 하나를 등록하면 확장 7개를 설치하고 업데이트할 수 있습니다.
+아래 주소 하나를 등록하면 확장 8개를 설치하고 업데이트할 수 있습니다.
 
 ```text
 https://raw.githubusercontent.com/wankyo83/ntk-fix/main/index.min.json
@@ -21,6 +21,7 @@ https://raw.githubusercontent.com/wankyo83/ntk-fix/main/index.min.json
 | Jjaptoon webtoon | 1.4.1 | 빨간색 토끼 | Webtoon, 최신 도메인 자동 감지 |
 | SBXH Webtoon | 1.4.5 | 노란색 토끼 | Webtoon, 전체 회차·이미지 로딩 검증 및 도메인 번호 설정 |
 | SBXH Manga | 1.4.12 | 노란색 토끼 | Manga, 사용자 피드백 기준 1.4.10 이미지 수집 방식 복원 |
+| 11toon manga | 1.4.2 | APK 기본 아이콘 | Manga, 원본 APK 무수정 배포 |
 
 ## 설치
 
