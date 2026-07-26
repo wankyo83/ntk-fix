@@ -14,8 +14,8 @@ https://raw.githubusercontent.com/wankyo83/ntk-fix/main/index.min.json
 
 | 확장 | 버전 | 아이콘 | 기본 주소 | 비고 |
 |---|---:|---|---|---|
-| Newtoki | 1.4.21 | 흰색 토끼 | `newtoki1.org` | Manga 작품·회차 WebView URL 정규화 |
-| Toki | 1.4.26 | 파란색 토끼 | `toki31.com` | Manga 작품·회차 WebView URL 정규화 |
+| Newtoki | 1.4.22 | 흰색 토끼 | `newtoki1.org` | 문자형 Manga 회차는 실제 WebView/API 이미지 사용 |
+| Toki | 1.4.27 | 파란색 토끼 | `toki31.com` | 문자형 Manga 회차는 실제 WebView/API 이미지 사용 |
 | Black toon | 1.4.6 | 검정색 토끼 | `blacktoon417.com` | 공식 주소 안내 페이지에서 최신 도메인 자동 감지 |
 | Jjaptoon webtoon | 1.4.1 | 빨간색 토끼 | `www.jjaptoon004.com` | 공식 `domain.json`에서 최신 도메인 자동 감지, 전체 회차 지원 |
 
