@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/wankyo83/ntk-fix/main/index.min.json
 | Black toon | 1.4.6 | 검은색 토끼 | Webtoon, 최신 도메인 자동 감지 |
 | Jjaptoon webtoon | 1.4.1 | 빨간색 토끼 | Webtoon, 최신 도메인 자동 감지 |
 | SBXH Webtoon | 1.4.5 | 노란색 토끼 | Webtoon, 전체 회차·이미지 로딩 검증 및 도메인 번호 설정 |
-| SBXH Manga | 1.4.8 | 노란색 토끼 | Manga, 전체 회차·검색·페이지 전환형 전체 이미지 수집 및 도메인 번호 설정 |
+| SBXH Manga | 1.4.9 | 노란색 토끼 | Manga, 세로·페이지 전환형 전체 이미지 수집 및 웹뷰 설정 복구 |
 
 ## 설치
 
