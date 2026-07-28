@@ -22,8 +22,7 @@ https://raw.githubusercontent.com/wankyo83/ntk-fix/main/index.min.json
 | SBXH Webtoon | 1.4.5 | 노랑 토끼 | Webtoon |
 | SBXH Manga | 1.4.12 | 노랑 토끼 | Manga |
 | 11toon manga | 1.4.6 | 무지개 토끼 | Manga |
-| sbxh manga_v1 | 1.4.4 | 노랑 토끼 | 독립 APK, 원본 NTK 1.4.3 뷰어 방식 유지, 전체 회차 수집 |
-| sbxh webtoon_v1 | 1.4.4 | 노랑 토끼 | 독립 APK, 원본 NTK 1.4.3 뷰어 방식 유지, 전체 회차 수집 |
+| SBXH v1 (`sbxh manga_v1` + `sbxh webtoon_v1`) | 1.4.4 | 노랑 토끼 | 원본처럼 하나의 APK, 원본 뷰어 방식 유지, 전체 회차 수집 |
 
 ## 설치
 
