@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/wankyo83/ntk-fix/main/index.min.json
 |---|---:|---|---|
 | Newtoki | 1.4.29 | 흰 토끼 | Webtoon |
 | ntk manga_v1 | 1.4.1 | 흰 토끼 | Manga |
-| Toki | 1.4.35 | 파란 토끼 | Webtoon |
+| Toki | 1.4.36 | 파란 토끼 | Webtoon |
 | Black toon | 1.4.6 | 검정 토끼 | Webtoon |
 | Jjaptoon webtoon | 1.4.1 | 빨강 토끼 | Webtoon |
 | SBXH Webtoon | 1.4.5 | 노랑 토끼 | Webtoon |
