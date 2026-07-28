@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/wankyo83/ntk-fix/main/index.min.json
 | Toki | 1.4.35 | 파란 토끼 | Webtoon |
 | DC_Toki webtoon | 1.4.3 | 파란 토끼 | Webtoon (최적화 테스트) |
 | dc_toki_manga | 1.4.2 | 파란 토끼 | Manga (최적화) |
-| Black toon | 1.4.10 | 검정 토끼 | Webtoon |
+| Black toon | 1.4.11 | 검정 토끼 | Webtoon |
 | Jjaptoon webtoon | 1.4.2 | 빨강 토끼 | Webtoon |
 | SBXH Webtoon | 1.4.5 | 노랑 토끼 | Webtoon |
 | SBXH Manga | 1.4.12 | 노랑 토끼 | Manga |
