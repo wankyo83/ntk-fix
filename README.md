@@ -22,6 +22,7 @@ https://raw.githubusercontent.com/wankyo83/ntk-fix/main/index.min.json
 | SBXH Webtoon | 1.4.5 | 노랑 토끼 | Webtoon |
 | SBXH Manga | 1.4.12 | 노랑 토끼 | Manga |
 | 11toon manga | 1.4.6 | 무지개 토끼 | Manga |
+| WFWF (`wfwf webtoon` + `wfwf manga`) | 1.4.3 | 녹색 토끼 | 공식 채널 주소 자동 감지, 전체 회차, 검색 지원 |
 
 ## 설치
 
