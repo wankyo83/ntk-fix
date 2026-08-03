@@ -37,8 +37,9 @@ WFWF는 하나의 APK에 웹툰과 만화 소스가 함께 들어 있어 파란�
 
 ## 이번 정리 내용
 
-- Newtoki/Toki/SBXH 웹툰·만화 6종에서 Suwayomi AndroidCompat의 `Stub!` 오류를 일으키던 `View.measure/layout` 호출 제거
+- Newtoki/Toki/SBXH 웹툰·만화 6종에서 Suwayomi AndroidCompat의 `Stub!` 오류를 일으키던 `View.measure/layout` 및 잔여 `View.MeasureSpec` 호출 제거
 - 기존 Android Debug 인증서와 패키지 ID를 유지하고 버전 코드를 올려 업데이트 설치 지원
+- Android 확장 업데이트 호환성을 위해 기존 배포본과 동일하게 APK v1/v2 서명 방식 사용
 - 중복된 구형 Toki 확장을 제거하고 최신 Toki 웹툰·만화만 유지
 - 확장 이름을 `사이트명 + 웹툰/만화` 형식으로 통일
 - 웹툰은 파란 DC 아이콘, 만화는 노란 DC 아이콘으로 통일
