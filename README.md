@@ -1,6 +1,6 @@
 # 토끼 확장 저장소
 
-Tachimanga, Mihon, Komikku 계열 앱에서 사용할 수 있는 개인용 한국어 확장 저장소입니다.
+Tachimanga, Mihon, Suwayomi, Komikku 계열 앱에서 사용할 수 있는 개인용 한국어 확장 저장소입니다.
 
 ## 저장소 주소
 
@@ -37,6 +37,8 @@ WFWF는 하나의 APK에 웹툰과 만화 소스가 함께 들어 있어 파란�
 
 ## 이번 정리 내용
 
+- Newtoki/Toki/SBXH 웹툰·만화 6종에서 Suwayomi AndroidCompat의 `Stub!` 오류를 일으키던 `View.measure/layout` 호출 제거
+- 기존 Android Debug 인증서와 패키지 ID를 유지하고 버전 코드를 올려 업데이트 설치 지원
 - 중복된 구형 Toki 확장을 제거하고 최신 Toki 웹툰·만화만 유지
 - 확장 이름을 `사이트명 + 웹툰/만화` 형식으로 통일
 - 웹툰은 파란 DC 아이콘, 만화는 노란 DC 아이콘으로 통일
